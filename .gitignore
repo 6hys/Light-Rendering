@@ -1,3 +1,10 @@
 
 .vs/*
 obj/*
+bin/fmod.dll
+bin/fmodL.dll
+bin/FreeImage.dll
+bin/MathsAndGraphics_debug.exe
+bin/MathsAndGraphics_debug.exp
+bin/MathsAndGraphics_debug.lib
+bin/MathsAndGraphics_debug.pdb
